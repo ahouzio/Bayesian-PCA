@@ -5,7 +5,7 @@
  ## Structure
 
 **Jupyter Notebooks**: 
-* `PPCA.ipynb`: PPCA implementation and comparison with PCA on a synthetic data. We run various experiments : 
+* `PPCA Notebook.ipynb`: PPCA implementation and comparison with PCA on a synthetic data. We run various experiments : 
     * Comparison of the PPCA and PCA on the iris dataset.
     * Robustness of PPCA to noise on synthetic datasets(Isotropic vs Anisotropic noise).
     * Rotational ambiguity of PPCA.
@@ -17,7 +17,7 @@
 
 
 
-* `BPCA.ipynb`: BPCA implementation and comparison with PCA on a synthetic data. Experiments consisted of : 
+* `BPCA notebook.ipynb`: BPCA implementation and comparison with PCA on a synthetic data. Experiments consisted of : 
     * Choosing an appropriate number of dimensions for the latent space using BPCA. This was tested on toy datasets of various sizes.
     * Projection of the data to the latent space with a known number of effective dimensions.
       
