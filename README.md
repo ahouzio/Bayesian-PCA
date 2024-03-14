@@ -1,6 +1,6 @@
 ## Overview
 
- This repository contains the code for the project for the “Bayesian Machine Learning” course of the MVA master. Our exploration centered around two variants of the traditional PCA: the Probabilistic PCA (PPCA) and the Bayesian PCA (BPCA). We studied these methods from a statistical viewpoint by comparing their performance on a synthetic dataset. Additionally, we explored their potential role in the estimation of missing data.
+ This repository contains the code for the project for the “Bayesian Machine Learning” course of the MVA master. Our exploration centered around the Probabilistic PCA (PPCA) framework as well as its Bayesian PCA (BPCA) extension. We studied these methods from a statistical viewpoint by comparing their performance on a synthetic dataset. Additionally, we explored their potential role in the estimation of missing data.
 
  ## Structure
 
